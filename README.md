@@ -1,10 +1,9 @@
-# KSX Matrix UI
+# RSD Terminal UI
 
-A fork of [hacking-the-kernel-ui](https://github.com/heisian/hacking-the-kernel-ui) with some tweaks.
+A fork of [ksd-matrix-ui](https://atom.io/packages/ksx-matrix-ui) with some tweaks.
 
 Matching syntax themes:
- - [ksx-matrix](https://atom.io/themes/ksx-matrix)
- - [hacking-the-kernel](https://atom.io/themes/hacking-the-kernel)
+ - [green-re-syntax](https://atom.io/packages/green-re-syntax)
 
 ## Preview
-![screenshot](https://raw.githubusercontent.com/ksxatompackages/ksx-matrix-ui/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/rustysys-dev/rsd-terminal-ui/master/screenshot.png)
