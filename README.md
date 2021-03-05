@@ -1,8 +1,11 @@
 # RSD Terminal UI
 
-A fork of [ksd-matrix-ui](https://atom.io/packages/ksx-matrix-ui) with some tweaks.
+A terminal like UI for atom with clear boundries and compact interface. Initially forked from [ksd-matrix-ui](https://atom.io/packages/ksx-matrix-ui) with some tweaks.
 
-Matching syntax themes:
+## Install link
+ - [rsd-terminal-syntax](https://atom.io/themes/rsd-terminal-ui)
+
+## Matching syntax theme
  - [green-re-syntax](https://atom.io/packages/green-re-syntax)
 
 ## Preview
