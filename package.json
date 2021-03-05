@@ -1,48 +1,28 @@
 {
-  "_from": "https://www.atom.io/api/packages/ksx-matrix-ui/versions/1.2.8/tarball",
-  "_id": "ksx-matrix-ui@1.2.8",
-  "_inBundle": false,
-  "_integrity": "sha512-Y17psLcVjWIexlFGGfTFbrQ2RceOc8Vd5pW2LQd+GNwU/UR56T2Fx5io2kDfXkXs980kLERZ+8K4zEnQQUHayA==",
-  "_location": "/ksx-matrix-ui",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "remote",
-    "raw": "https://www.atom.io/api/packages/ksx-matrix-ui/versions/1.2.8/tarball",
-    "rawSpec": "https://www.atom.io/api/packages/ksx-matrix-ui/versions/1.2.8/tarball",
-    "saveSpec": "https://www.atom.io/api/packages/ksx-matrix-ui/versions/1.2.8/tarball",
-    "fetchSpec": "https://www.atom.io/api/packages/ksx-matrix-ui/versions/1.2.8/tarball"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://www.atom.io/api/packages/ksx-matrix-ui/versions/1.2.8/tarball",
-  "_shasum": "d46344842c25c4527470457b80d0d3261448d16d",
-  "_spec": "https://www.atom.io/api/packages/ksx-matrix-ui/versions/1.2.8/tarball",
-  "_where": "/private/var/folders/dh/3kknd8ld12z6thz992l986980000gp/T/apm-install-dir-202124-35620-z82t76.bih3g",
   "bugs": {
-    "url": "https://github.com/ksxatompackages/ksx-matrix-ui/issues"
+    "url": "https://github.com/rustysys-dev/rsd-terminal-ui/issues"
   },
   "bundleDependencies": false,
   "deprecated": false,
-  "description": "A dark UI theme for your late-night coding sessions...",
+  "description": "A terminal like dark UI for atom with clear boundries and compact interface.",
   "engines": {
-    "atom": ">0.40.0"
+    "atom": ">1.50.0"
   },
-  "homepage": "https://github.com/ksxatompackages/ksx-matrix-ui#readme",
+  "homepage": "https://github.com/rustysys-dev/rsd-terminal-ui/#readme",
   "keywords": [
     "ui",
     "theme",
+    "compact",
     "dark",
     "green",
-    "matrix"
+    "terminal"
   ],
   "license": "MIT",
-  "name": "ksx-matrix-ui",
+  "name": "rsd-terminal-ui",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ksxatompackages/ksx-matrix-ui.git"
+    "url": "git+https://github.com/rustysys-dev/rsd-terminal-ui.git"
   },
   "theme": "ui",
-  "version": "1.2.8"
+  "version": "1.0.0"
 }
