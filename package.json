@@ -21,8 +21,8 @@
   "name": "rsd-terminal-ui",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rustysys-dev/rsd-terminal-ui.git"
+    "url": "https://github.com/rustysys-dev/rsd-terminal-ui.git"
   },
   "theme": "ui",
-  "version": "1.0.0"
+  "version": "0.0.0"
 }
