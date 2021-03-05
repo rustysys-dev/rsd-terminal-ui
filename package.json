@@ -24,5 +24,5 @@
     "url": "git+https://github.com/rustysys-dev/rsd-terminal-ui.git"
   },
   "theme": "ui",
-  "version": "0.0.0"
+  "version": "1.0.0"
 }
